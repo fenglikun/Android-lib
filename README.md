@@ -1,4 +1,9 @@
 Android-lib
 ===========
+Android应用库
 
-都是Android的一些积累，里面包含了Afinal的源码。
+是本人在平时项目开发中会用到的一些内容积累，有一些借鉴网友内容，有些是自己写的，里面含有Afinal框架源码，这部分内容可以参考(https://github.com/yangfuhai/afinal),本着学习的目标分享出来一起交流。希望对一些人有帮助，也希望受到各位的指正。
+
+
+QQ交流群：213167832
+技术网站：www.songhaiqing.cn
