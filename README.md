@@ -7,3 +7,14 @@ Android应用库
 
 QQ交流群：213167832
 技术网站：www.songhaiqing.cn
+
+
+
+目录解释：
+
+doc		--相关文档
+code 	--Android源代码（Eclipse）
+lib		--发布的Jar包
+	
+
+
